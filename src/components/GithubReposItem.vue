@@ -11,7 +11,7 @@
       <a
         :href="repository.html_url"
         target="_blank"
-        class="font-medium text-purple-800 dark:text-purple-200"
+        class="font-medium text-orange-800 dark:text-orange-200"
       >
         {{ repository.name }}
       </a>
